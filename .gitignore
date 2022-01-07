@@ -1,3 +1,10 @@
+# Ignore DS Store Files
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+.firebase
+
 # Logs
 logs
 *.log
