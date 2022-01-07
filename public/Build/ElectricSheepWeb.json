@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ElectricSheep",
+"productVersion": "0.1",
+"dataUrl": "ElectricSheepWeb.data.unityweb",
+"wasmCodeUrl": "ElectricSheepWeb.wasm.code.unityweb",
+"wasmFrameworkUrl": "ElectricSheepWeb.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "ElectricSheepWeb.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.19f1"
+}
